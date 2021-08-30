@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: #F1E9E5;
+  color: #464660;
+}
+ h1 {
+  font-family: verdana;
+  text-align: center;
+  margin: 20%;
+ }
